@@ -8,7 +8,7 @@ Sometimes can make code ^)
 
 * 🌍  I'm based in Tomsk, Russia
 * ✉️  You can contact me at [music.tomsk1@gmail.com](mailto:music.tomsk1@gmail.com)
-* 🧠  I'm learning JS, PHP, Python,
+* 🧠  For now learning JS, PHP, Python,
 
 ### Skills
 
