@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Future Web-Developer
 --------------------
 
-Sometimes can make code ^)
 
 * 🌍  I'm based in Tomsk, Russia
 * ✉️  You can contact me at [music.tomsk1@gmail.com](mailto:music.tomsk1@gmail.com)
