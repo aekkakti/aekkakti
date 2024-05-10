@@ -1,4 +1,4 @@
-![Uploading gif-drive.gif…]()
+<img src="https://github.com/aekkakti/aekkakti/blob/main/gif-drive.gif"/>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gordey Ivanov
